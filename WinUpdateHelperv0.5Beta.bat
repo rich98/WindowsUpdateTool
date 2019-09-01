@@ -162,7 +162,7 @@ echo ******************
 echo.
 echo  ***************************************************************************************************************
 echo    Version 0.5 Beta Version 				  					            
-echo    No warrenty offered or implied 								                    
+echo    No warranty offered or implied 								                    
 echo    License free even in commercial to modify, change, you can use in by please give kudos to Richard wadsworth 
 echo    Any issues bugs or faults please contact me https://linkedin.com/in/rcwadsworth                                                                
 echo    You use at your own risk. This is a beta version only windows 10 is supported
