@@ -3,7 +3,7 @@ A batch file that helps resolve update issues in windows 10
 
     Version 0.5 Beta Version 				  					            
     No warranty offered or implied 								                    
-    License free even in commercial to modify, change, you can use in by please give kudos to Richard wadsworth 
+    License free even in commercial to modify, change, you can use in by please give kudos to Richard Wadsworth 
     Any issues bugs or faults please contact me https://linkedin.com/in/rcwadsworth                                                                
     You use at your own risk. This is a beta version only windows 10 is supported
 
