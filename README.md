@@ -1,8 +1,8 @@
 # WindowsUpdateTool
-A batch file that helps reslove update issues in windows 10
+A batch file that helps resolve update issues in windows 10
 
     Version 0.5 Beta Version 				  					            
-    No warrenty offered or implied 								                    
+    No warranty offered or implied 								                    
     License free even in commercial to modify, change, you can use in by please give kudos to Richard wadsworth 
     Any issues bugs or faults please contact me https://linkedin.com/in/rcwadsworth                                                                
     You use at your own risk. This is a beta version only windows 10 is supported
