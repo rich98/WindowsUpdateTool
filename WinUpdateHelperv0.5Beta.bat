@@ -179,7 +179,7 @@ echo.
 echo       %name% - %version% 
 echo.
 echo       1. Manually run Windows Update (Win 10 Only)
-echo       2. Rename Software distribution Folder and crete new folder. This is not a full reset.
+echo       2. Rename Software distribution Folder and create new folder. This is not a full reset.
 echo       3. Full reset of windows update
 echo       4. Scan for File corruption 
 echo       5. Move Windows updates to another disk
