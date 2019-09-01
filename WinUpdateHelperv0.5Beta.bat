@@ -174,7 +174,7 @@ echo.
 echo.
 echo	   Is this script compatible with my version of windows? A) %permit%
 echo.
-echo	   Admin Stattus = %adminp%
+echo	   Admin Status = %adminp%
 echo.
 echo       %name% - %version% 
 echo.
