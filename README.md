@@ -16,4 +16,4 @@ Known issues:
 Do not run without starting it with elevated permissions there is a warning if you don't
 
 Coming soon
-Support for all windpws O\S from XP to wim 10 please a server edition
+Support for all windpws O\S from XP to win 10 please a server edition
