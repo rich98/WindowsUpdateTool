@@ -15,6 +15,6 @@ BETA means it needs to be tested
 
 
 Coming soon
-Support for all windpws O\S from XP to win 10 please a server edition
+Support for all windows O\S from XP to win 10
 Logging
 Server version
