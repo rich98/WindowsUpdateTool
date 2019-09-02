@@ -163,7 +163,7 @@ echo.
 echo  *******************************************************************************************************************
 echo    Version 0.6 Beta Version 				  					            
 echo    No warranty offered or implied 								                    
-echo    License free even for commercial use, modify, change. But please give kudos to Richard wadsworth 
+echo    GNU General Public License v2.0 
 echo    Any issues bugs or faults please contact me https://linkedin.com/in/rcwadsworth                                                                
 echo    You use at your own risk. This is a beta version only windows 10 is supported
 echo.                               
