@@ -198,9 +198,9 @@ echo       6. Open WinUpdate log file
 echo       7. Show system information 
 echo       8. Run DISM Check
 echo       9. Set log file directory
-echo      10. Run DISM Restore
+echo      10. Run DISM Restore - Internet connection required
 echo      11. Show installed updates
-echo      12. Remote Execution Menu
+echo      12. Remote Execution Menu 
 echo      97. Features to be added 
 echo      98. Show licence 
 echo      99. Quit
@@ -221,7 +221,8 @@ echo.
 	if '%choice%'=='8' goto dismc
 	if '%choice%'=='9' goto log 
 	if '%choice%'=='10' goto dismR
-	if '%choice%'=='11' goto winv7810	
+	if '%choice%'=='11' goto winv7810
+	if '%choice%'=='12' goto notworking	
 	if '%choice%'=='97' goto newops
 	if '%choice%'=='98' goto licence
 	if '%choice%'=='99' goto End
@@ -258,7 +259,16 @@ pause
 cls
 goto start
 
+:notworking
+
+cls
+echo Not working yet 
+pause
+cls
+goto start
+
 REM full reset script 
+
 
 :resetwindowsupdate
 cls
